@@ -16,6 +16,13 @@ body {
 .carousel {
   margin-bottom: 4rem;
 }
+
+
+.logo {
+  color: #777;
+}
+
+
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   bottom: 3rem;
