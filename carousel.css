@@ -8,6 +8,19 @@ body {
   color: #5a5a5a;
 }
 
+._line_spacing_ {
+  padding: 100;
+  margin: 20px;
+}
+
+.about-us {
+  padding: 100;
+  margin: 10px;
+}
+
+hovering :hover {
+  color: #e48d00;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
